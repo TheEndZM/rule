@@ -1,3 +1,2 @@
-payload:
-  - DOMAIN,tw.baozimh.com
-  - DOMAIN-KEYWORD,baozimh
+- DOMAIN,tw.baozimh.com
+- DOMAIN-KEYWORD,baozimh
