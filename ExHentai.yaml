@@ -1,5 +1,4 @@
-payload:
-  - DOMAIN,e-hentai.org
-  - DOMAIN,exhentai.org
-  - DOMAIN-KEYWORD,exhentai
-  - DOMAIN-KEYWORD,e-hentai
+- DOMAIN,e-hentai.org
+- DOMAIN,exhentai.org
+- DOMAIN-KEYWORD,exhentai
+- DOMAIN-KEYWORD,e-hentai
