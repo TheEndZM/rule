@@ -1,0 +1,8 @@
+payload:
+  - DOMAIN,cloud.nikke-kr.com
+  - DOMAIN,jp-lobby.nikke-kr.com
+  - DOMAIN,aws-na.intlgame.com
+  - DOMAIN-KEYWORD,nikke
+  - DOMAIN-KEYWORD,intlgame
+  - PROCESS-NAME,intl_service.exe
+  - PROCESS-NAME,nikke_launcher.exe
